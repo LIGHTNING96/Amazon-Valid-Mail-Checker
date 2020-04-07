@@ -1,2 +1,4 @@
 # Amazon-Valid-Mail-Checker
-This Tol to check vaild mail  in amazon for Spammer 
+This Tool to check vaild mail in amazon for Spammer 
+To Make a Mial list
+Python3
