@@ -1,4 +1,7 @@
 # Amazon-Valid-Mail-Checker
+Before Run the sscript
+Instaall requests
+pip install requests
 This Tool to check vaild mail in amazon for Spammer 
 To Make a Mial list
 #Python3#
