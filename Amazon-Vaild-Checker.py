@@ -43,3 +43,4 @@ facebook.com/xcberlin
   else:
    open('Mater.txt', 'a').write(email + '\n')
    print("\033[31;1m%d - DIE\033[0m | "+email+" | Not Vaild")%(d+1)
+input("Enter to exit")
